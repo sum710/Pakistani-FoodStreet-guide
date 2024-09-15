@@ -135,7 +135,7 @@ section {
       }
 .food-card {
         flex: 0 1 calc(25% - 2rem);
-        background-color:rgba(194, 124, 124, 0.829);
+        background-color:rgba(210, 126, 126, 0.829);
         text-align:center;
         border-radius: 10px;
         overflow: hidden;
